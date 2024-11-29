@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shield
+  - up&down
+  - right&left
+  - Boss
+  - BossHealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Invulnerable
+  - Background
+  - Drone
+  - Bonuses
+  - Coins
+  - BossMovementBorders
+  - EnemyShots
+  - Boss
+  - BonusCollector
+  - PlayerShots
+  - CoinsBorders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3073656835
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
